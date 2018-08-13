@@ -327,3 +327,17 @@ ul {
   font-weight:700;}
 
 .fecharconteudo{cursor:pointer;}
+
+
+table td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table tr{background-color: #1a4f7b; color:#ffffff !important;}
+
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table{margin-top:20px; margin-bottom:20px;}
+
